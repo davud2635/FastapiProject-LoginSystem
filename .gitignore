@@ -1,0 +1,12 @@
+# Virtuelt miljø
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Miljøvariabler
+.env
+
+# PyCharm settings (valgfrit)
+.idea/
